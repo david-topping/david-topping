@@ -16,14 +16,14 @@ I build and run **React + Node.js services**, mainly around microservice orchest
 
 ## Outside of work
 
-### 🥫 Food Facts Friends — Food Bank Website
+### 🥫 Food Facts Friends: Food Bank Website
 This is my main side project at the moment.
 
 I’m developing and maintaining the website for **Food Facts Friends**, a local food bank charity.
 
 🔗 https://foodfactsfriends.org.uk
 
-It’s a deliberately practical project — no over-engineering, just building something useful for real people.
+It’s a deliberately practical project, no over-engineering, just building something useful for real people.
 
 If you’re interested in working together on a **side project, charity website, or small product**, feel free to get in touch.
 
