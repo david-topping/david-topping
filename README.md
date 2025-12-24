@@ -21,7 +21,7 @@ This is my main side project at the moment.
 
 I’m developing and maintaining the website for **Food Facts Friends**, a local food bank charity.
 
-🔗 https://foodfactsfriends.org.uk
+🔗 [github.com/david-topping/food-facts-friends](https://github.com/david-topping/food-facts-friends)
 
 It’s a deliberately practical project, no over-engineering, just building something useful for real people.
 
