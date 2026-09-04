@@ -1,5 +1,5 @@
 # Hi, I'm David
-Full-Stack Software Engineer in Edinburgh, currently at Lloyds Banking Group. I build React + Node.js services around microservice orchestration, CI/CD, and Kubernetes — and I'm still not tired of YAML.
+Full-Stack Software Engineer in Edinburgh, currently at Lloyds Banking Group. I build React + Node.js services around microservice orchestration, CI/CD and Kubernetes — and I'm still not tired of YAML.
 
 **Stack:** React, TypeScript, Node.js, Java (Quarkus), Kubernetes, CI/CD, IaC
 
